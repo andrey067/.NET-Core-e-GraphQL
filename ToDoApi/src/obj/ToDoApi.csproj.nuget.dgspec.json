@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj": {}
+    "D:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj": {}
   },
   "projects": {
-    "d:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj": {
+    "D:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj",
+        "projectUniqueName": "D:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "d:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj",
+        "projectPath": "D:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\ToDoApi.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "d:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\obj\\",
+        "outputPath": "D:\\Cursos\\Net Core e GraphQL\\ToDoApi\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,9 +46,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
             "HotChocolate.AspNetCore": {
               "target": "Package",
               "version": "[12.15.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

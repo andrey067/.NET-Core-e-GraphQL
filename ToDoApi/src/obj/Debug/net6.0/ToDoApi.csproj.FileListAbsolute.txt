@@ -74,3 +74,9 @@ D:\Cursos\Net Core e GraphQL\ToDoApi\src\obj\Debug\net6.0\refint\ToDoApi.dll
 D:\Cursos\Net Core e GraphQL\ToDoApi\src\obj\Debug\net6.0\ToDoApi.pdb
 D:\Cursos\Net Core e GraphQL\ToDoApi\src\obj\Debug\net6.0\ToDoApi.genruntimeconfig.cache
 D:\Cursos\Net Core e GraphQL\ToDoApi\src\obj\Debug\net6.0\ref\ToDoApi.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\Net Core e GraphQL\ToDoApi\src\bin\Debug\net6.0\FluentValidation.dll
